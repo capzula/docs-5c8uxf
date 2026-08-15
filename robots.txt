@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-oryj1j.juragan89c.site/sitemap.xml
